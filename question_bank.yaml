@@ -1,0 +1,104 @@
+DSA:
+  Easy:
+    - "Explain the difference between an array and a linked list."
+    - "What is a stack and how does it work?"
+    - "Define what an algorithm is."
+  Medium:
+    - "Explain Merge Sort and its time complexity."
+    - "What is a Binary Search Tree and how do you insert a node?"
+    - "Describe the difference between BFS and DFS."
+  Hard:
+    - "Explain the worst-case time complexity of QuickSort and how to avoid it."
+    - "How would you implement an LRU Cache?"
+    - "Discuss the time complexity of Dijkstra's algorithm with a priority queue."
+DBMS:
+  Easy:
+    - "What is a primary key?"
+    - "Define normalization."
+    - "What is SQL?"
+  Medium:
+    - "Explain the difference between SQL and NoSQL databases."
+    - "What are the ACID properties in a database?"
+    - "Explain Inner Join vs Outer Join with examples."
+  Hard:
+    - "How does database indexing work internally (B-Trees)?"
+    - "Explain database sharding and its challenges."
+    - "Describe the concept of Isolation levels and Dirty Read."
+OOP:
+  Easy:
+    - "What is a class and an object?"
+    - "Define inheritance."
+    - "What is encapsulation?"
+  Medium:
+    - "Explain polymorphism with a real-world example."
+    - "What is the difference between an abstract class and an interface?"
+    - "Explain the concept of method overloading vs overriding."
+  Hard:
+    - "What is the Diamond Problem in inheritance and how is it resolved?"
+    - "Explain the SOLID principles in detail."
+    - "How does memory management work for objects in Python/Java?"
+ML:
+  Easy:
+    - "What is Supervised Learning?"
+    - "Define a dataset."
+    - "What is regression?"
+  Medium:
+    - "Explain the Bias-Variance Tradeoff."
+    - "What is the difference between K-Means and KNN?"
+    - "How does a Decision Tree work?"
+  Hard:
+    - "Explain the mathematics behind Backpropagation in Neural Networks."
+    - "How do Support Vector Machines (SVM) find the optimal hyperplane?"
+    - "Discuss the problem of Vanishing Gradients and how to solve it."
+HR:
+  Easy:
+    - "Tell me about yourself."
+    - "What are your strengths?"
+    - "Why do you want to join this company?"
+  Medium:
+    - "Describe a time you faced a conflict in a team."
+    - "Where do you see yourself in 5 years?"
+    - "Describe a challenge you overcame."
+  Hard:
+    - "How do you handle a situation where you disagree with your manager?"
+    - "Describe a time you failed and what you learned from it."
+    - "How do you prioritize tasks under tight deadlines?"
+Cloud:
+  Easy:
+    - "What is Cloud Computing?"
+    - "What is AWS/Azure?"
+    - "Define IaaS, PaaS, and SaaS."
+  Medium:
+    - "Explain the concept of AWS EC2."
+    - "What is an S3 bucket?"
+    - "Explain the difference between horizontal and vertical scaling."
+  Hard:
+    - "How would you design a highly available architecture on AWS?"
+    - "Explain the concept of Serverless computing (Lambda) and its limitations."
+    - "How does Load Balancing work at Layer 4 vs Layer 7?"
+Python:
+  Easy:
+    - "What is the difference between a list and a tuple?"
+    - "Explain what PEP 8 is."
+    - "How do you define a function in Python?"
+  Medium:
+    - "Explain the difference between 'is' and '=='."
+    - "What are Python decorators and how do they work?"
+    - "Explain list comprehensions with an example."
+  Hard:
+    - "How does memory management work in Python (Garbage Collection)?"
+    - "Explain the Global Interpreter Lock (GIL)."
+    - "What are generators and how are they different from iterators?"
+Java:
+  Easy:
+    - "What is the difference between JDK, JRE, and JVM?"
+    - "Explain the concept of 'static' keyword."
+    - "What is a constructor?"
+  Medium:
+    - "Explain the difference between ArrayList and LinkedList."
+    - "What is the difference between 'final', 'finally', and 'finalize'?"
+    - "Explain Exception Handling hierarchy in Java."
+  Hard:
+    - "How does the Java Garbage Collector work?"
+    - "Explain the life cycle of a thread."
+    - "What is the difference between synchronized HashMap and ConcurrentHashMap?"
