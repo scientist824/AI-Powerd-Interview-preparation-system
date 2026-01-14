@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 AI Interview Preparation System 🎤🤖
 An AI-powered interview preparation web app built with Streamlit, LangChain-style RAG, LLaMA 3, and Whisper.
 It generates domain-specific interview questions, evaluates candidate answers (text/voice), and provides personalized AI feedback.
@@ -124,6 +125,10 @@ It is aslo evaluted
 
 
 
+=======
+# AI-Powerd-Interview-preparation-system
+clint college project two
+>>>>>>> ef75871a2216fcc067fc25cb338ba59f44d83328
 =======
 # AI-Powerd-Interview-preparation-system
 clint college project two
